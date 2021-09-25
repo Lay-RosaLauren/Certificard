@@ -6,4 +6,5 @@
 - Estruturamos o nosso portfólio com HTML, aprendendo todas as tags necessárias pra isso
 - Estilizamos o nosso portfólio com CSS, conhecendo os seletores, propriedades e valores necessários para isso
 - Criamos o tema escuro para o nosso portfólio
+- 🎓 https://lay-rosalauren.github.io/Certificard/
 
