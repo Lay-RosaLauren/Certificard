@@ -1,0 +1,104 @@
+.about {
+  background-image: url("https://ak.picdn.net/shutterstock/videos/1012305950/thumb/1.jpg");
+  background-size: cover;
+  padding: 90px 80px 40px 85px;
+  /*margin: -20px 50px;*/
+}
+
+.about-text {
+  padding: 50px 100px 0px 0px;
+}
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:focus,
+.navbar-inverse .navbar-nav > .active > a:hover {
+  color: white;
+  background-color: #080808;
+}
+.navbar-inverse .navbar-nav > .active > a:hover {
+  color: #a0c6e7;
+}
+.navbar-inverse .navbar-brand {
+  color: white;
+}
+
+h2 {
+  font-family: Cambria;
+  color: white;
+}
+
+h4 {
+  font-family: Cambria;
+  color: white;
+}
+
+.avatar {
+  border: 10px solid white;
+}
+
+.portfolio {
+  background-image: url("https://charmehautdotcom.files.wordpress.com/2021/09/coracao-1.jpg?w=1024");
+  background-size: cover;
+  padding: 0px 100px 50px 100px;
+  /*margin: 0px 65px;*/
+}
+
+@media screen and (max-width: 992px) {
+  .avatar {
+    display: none;
+  }
+}
+
+.contact {
+  background-image: url("https://ak.picdn.net/shutterstock/videos/1012305950/thumb/1.jpg");
+  background-size: cover;
+  padding: 0px 100px;
+  background-color: #993366;
+  /*margin: 0px 65px;*/
+}
+
+p {
+  font-family: Cambria;
+  text-align: center;
+  font-size: 17px;
+}
+
+span {
+  color: white;
+  font-family: Cambria;
+  font-size: 12px;
+}
+
+.footer {
+  padding: 10px;
+}
+
+.icon {
+  color: white;
+}
+.icon:hover {
+  color: #2e6da4;
+}
+.form-group {
+  color: white;
+  font-family: Cambria;
+}
+.navbar-brand {
+  font-family: Cambria;
+}
+.col-md-5 {
+  color: white;
+}
+.btn-primary {
+  color: #fff;
+  background-color: #337ab7;
+  border-color: #2e6da4;
+}
+.col-md-6 a {
+  color: white;
+  font-family: Cambria;
+  font-size: 25px;
+  text-decoration: none;
+}
+a:hover {
+  color: #a0c6e7;
+}
